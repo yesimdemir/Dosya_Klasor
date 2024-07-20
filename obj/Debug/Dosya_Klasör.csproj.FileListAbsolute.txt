@@ -1,0 +1,11 @@
+D:\Projects\Dosya_Klasör\bin\Debug\Dosya_Klasör.exe.config
+D:\Projects\Dosya_Klasör\bin\Debug\Dosya_Klasör.exe
+D:\Projects\Dosya_Klasör\bin\Debug\Dosya_Klasör.pdb
+D:\Projects\Dosya_Klasör\obj\Debug\Dosya_Klasör.csproj.AssemblyReference.cache
+D:\Projects\Dosya_Klasör\obj\Debug\Dosya_Klasör.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Dosya_Klasör\obj\Debug\Dosya_Klasör.Form1.resources
+D:\Projects\Dosya_Klasör\obj\Debug\Dosya_Klasör.Properties.Resources.resources
+D:\Projects\Dosya_Klasör\obj\Debug\Dosya_Klasör.csproj.GenerateResource.cache
+D:\Projects\Dosya_Klasör\obj\Debug\Dosya_Klasör.csproj.CoreCompileInputs.cache
+D:\Projects\Dosya_Klasör\obj\Debug\Dosya_Klasör.exe
+D:\Projects\Dosya_Klasör\obj\Debug\Dosya_Klasör.pdb
